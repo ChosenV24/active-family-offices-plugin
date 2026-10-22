@@ -8,7 +8,10 @@
     "email": "support@activefamilyoffices.com",
     "url": "https://activefamilyoffices.com"
   },
-  "homepage": "https://activefamilyoffices.com/pages/free-ai-connector",
+  "homepage": "https://activefamilyoffices.com",
+  "documentationUrl": "https://activefamilyoffices.com/pages/free-ai-connector",
+  "supportUrl": "https://mcp.activefamilyoffices.com/",
+  "termsOfServiceUrl": "https://activefamilyoffices.com/policies/terms-of-service",
   "repository": "https://github.com/ChosenV24/active-family-offices-plugin",
   "license": "MIT",
   "keywords": [
