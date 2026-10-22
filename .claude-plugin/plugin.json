@@ -1,0 +1,25 @@
+{
+  "name": "active-family-offices",
+  "displayName": "Active Family Offices",
+  "version": "1.0.0",
+  "description": "Search a family office database reviewed and verified by a team of humans, build shortlists by location, type and investment focus, and open full profiles with decision-makers and verified work emails.",
+  "author": {
+    "name": "Active Family Offices",
+    "email": "support@activefamilyoffices.com",
+    "url": "https://activefamilyoffices.com"
+  },
+  "homepage": "https://activefamilyoffices.com/pages/free-ai-connector",
+  "repository": "https://github.com/ChosenV24/active-family-offices-plugin",
+  "license": "MIT",
+  "keywords": [
+    "family offices",
+    "investors",
+    "fundraising",
+    "capital raising",
+    "private equity",
+    "real estate",
+    "investor database"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://mcp.activefamilyoffices.com/privacy"
+}
